@@ -16,6 +16,8 @@ NUMBER_KEY = None
 
 NUMBERS = {}
 
+FERAL_NUMBER_KEY = False
+
 KEYMAPS = {
     'Gemini PR': {
         '§-'        : 'pwr',
